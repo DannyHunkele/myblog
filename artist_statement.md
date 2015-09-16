@@ -10,6 +10,6 @@ In the years I have been doing art there have been two mediums that have really 
 
 #Gallery
 
-[Charcoal](/charcoal/)
+[Charcoal](http://DannyHunkele.github.io/myblog/charcoal/)
 
-[Watercolor](/watercolor/)
+[Watercolor](http://DannyHunkele.github.io/myblog/watercolor/)
