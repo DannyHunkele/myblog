@@ -2,7 +2,7 @@
 title: Danny's Blog
 email: danny@hunkele.net
 description: Just exploring Jekyll and blogging while learning web development.  It's definitely an exciting journey and something I would like to work hard to master but it definitely is taking a lot of work!
-baseurl: "" # the subpath of your site, e.g. /blog/
+baseurl: "/myblog/" # the subpath of your site, e.g. /blog/
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: dannyhunkele
 github_username:  DannyHunkele
