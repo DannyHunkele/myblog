@@ -8,28 +8,28 @@ permalink: /charcoal/
 
 **Title:** *Cherie* **Medium:** charcoal on paper 
 
-![Cherie](/images/cherie.jpg)
+![Cherie](http://DannyHunkele.github.io/myblog/images/cherie.jpg)
 
 **Title:** *Cotton* **Medium:** charcoal on paper 
 
-![Cotton](/images/cotton.jpg)
+![Cotton](http://DannyHunkele.github.io/myblog/images/cotton.jpg)
 
 **Title:** *Dreamer* **Medium:** charcoal on mylar 
 
-![Dreamer](/images/dreamer.jpg)
+![Dreamer](http://DannyHunkele.github.io/myblog/images/dreamer.jpg)
 
 **Title:** *Hollywood* **Medium:** charcoal on mylar 
 
-![Hollywood](/images/hollywood.jpg)
+![Hollywood](http://DannyHunkele.github.io/myblog/images/hollywood.jpg)
 
 **Title:** *Self Portrait* **Medium:** charcoal on paper 
 
-![Self Portrait](/images/selfPortrait.jpg)
+![Self Portrait](http://DannyHunkele.github.io/myblog/images/selfPortrait.jpg)
 
 **Title:** *Resting* **Medium:** charcoal on paper 
 
-![Resting](/images/resting.jpg)
+![Resting](http://DannyHunkele.github.io/myblog/images/resting.jpg)
 
 **Title:** *Thinking* **Medium:** charcoal on paper 
 
-![Thinking](/images/thinking.jpg)
+![Thinking](http://DannyHunkele.github.io/myblog/images/thinking.jpg)

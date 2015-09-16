@@ -8,8 +8,8 @@ permalink: /watercolor/
 
 **Title:** *Self Portrait Watercolor* **Medium:** watercolor on paper 
 
-![Self Portrait Watercolor](/images/selfPortraitWatercolor.jpg)
+![Self Portrait Watercolor](http://DannyHunkele.github.io/myblog/images/selfPortraitWatercolor.jpg)
 
 **Title:** *Fantasy Watercolor* **Medium:** watercolor on paper 
 
-![Fantasy Watercolor](/images/fantasyWatercolor.jpg)
+![Fantasy Watercolor](http://DannyHunkele.github.io/myblog/images/fantasyWatercolor.jpg)
